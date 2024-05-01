@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#login-form {
+    display: block;
+    margin: 10%;
+
+
+}
+
+.data1 {
+    display: block;
+    /* height: 35px; */
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 3%;
+
+}
+
+.data2 {
+    display: block;
+    /* height: 35px; */
+    width: 90%;
+    margin-bottom: 20px;
+    padding: 3%;
+
+}
+
+.login {
+    display: block;
+    height: 35px;
+    width: 90%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: dodgerblue;
+    color: white;
+    /* border: none; */
+    border: dodgerblue;
+}
+
+.login-container {
+    margin: auto;
+    height: max-content;
+    width: 30%;
+    border: 1px solid grey;
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+.form-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.hrr {
+    width: 38%;
+    display: inline-block;
+    margin: 1.5%;
+}
+
+.option {
+    display: inline-block;
+}
+
+.ins {
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#facebook{
+    display: inline-block;
+    margin: 2%;
+    background-color:navy;
+    color: white;
+    width: 7%;
+}
+
+.logging{
+    display: inline-block;
+    color: navy;
+    margin-bottom: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.your{
+    font-size: 12px;
+    color:navy ;
+    cursor: pointer;
+}
+
+#loginform-formm{
+    margin: auto;
+    width: 30%;
+    border: 1px solid grey;
+    margin-top: 20px;
+    height: 10vh;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+}
+
+.sign{
+    color: dodgerblue;
+    cursor: pointer;
+}
+
+#play1{
+    width: 10%;
+    height: 8%;
+    /* margin-top: 2%;    */
+    cursor: pointer;
+
+}
+#play2{
+    width: 8%;
+    height: 6%;
+    margin-top: 1%; 
+    cursor: pointer;  
+
+}
+
+.lastone{
+    margin-top: 1%;
+   text-align: center;
+
+}
+
+.get{
+    font-size: 20px;
+}
+
+
